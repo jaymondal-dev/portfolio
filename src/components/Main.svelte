@@ -45,6 +45,14 @@
                 /><a href="mailto:freelancer.jay.mondal@gmail.com"><h4 class="relative z-9">Get in touch &rarr;</h4></a>
                 
             </button>
+            <button
+                class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-9 py-3 group rounded-full bg-slate-500 text-white border-slate-950 hover:bg-slate-950 hover:text-white md:hidden"
+            >
+                <div
+                    class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
+                /><a href="mailto:freelancer.jay.mondal@gmail.com"><h4 class="relative z-9">Resume &rarr;</h4></a>
+                
+            </button>
         </div>
         <div class="relative shadow-2xl grid place-items-center">
             <img

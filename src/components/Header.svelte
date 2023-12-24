@@ -1,6 +1,6 @@
 
 
-<script>
+  <script>
     export let y;
 
     export let tabs = [
@@ -17,6 +17,7 @@
         (y > 0
             ? " py-4 bg-white border-slate-500"
             : " py-6 bg-transparent border-transparent")}
+    
 >
     <h1 class="font-medium text-2xl text-slate-950">
         <b class="Ubuntu">Jay Mondal</b> <span class=""></span>
@@ -60,4 +61,5 @@
             </a>
         </button>
     </div>
+    
 </header>

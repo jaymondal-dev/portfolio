@@ -2,12 +2,26 @@
     class="py-20 sm:py-32 bg-[#ffffff] border-t border-solid border-violet-950 flex flex-col gap-4 sm:gap-8 justify-center items-center"
 >
     <div class="flex gap-6 m-10">
-        <p class="px-8 py-2 bg-slate-950 text-white font-medium ">
-            Blog
-        </p>
-        <p class="px-4 py-2 bg-slate-950 text-white font-medium">
-            Projects
-        </p>
+        <button
+            class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full text-white bg-[#1d194e]"
+        >
+            <a href="/blog" target="_blank">
+                <div
+                    class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
+                />
+                <h4 class="relative z-9">Blogs</h4>
+            </a>
+        </button>
+        <button
+            class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full text-white bg-[#1d194e]"
+        >
+            <a href="https://google.com" target="_blank">
+                <div
+                    class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
+                />
+                <h4 class="relative z-9">Projects</h4>
+            </a>
+        </button>
     </div>
 
     <div class="flex flex-col gap-4 items-center justify-center">
@@ -15,13 +29,13 @@
             class="flex items-center gap-4 sm:gap-6 text-2xl sm:text-3xl md:text-4xl mx-auto"
         >
             <!-- svelte-ignore a11y-missing-attribute -->
-            <a href=" " target="_blank" class="text-white">
+            <a href=" " target="_blank" class="text-black">
                 <i class="fa-brands fa-linkedin-in" />
             </a>
-            <a href=" " target="_blank" class="text-white">
+            <a href=" " target="_blank" class="text-black">
                 <i class="fa-brands fa-github" />
             </a>
-            <a href=" " target="_blank" class="text-white">
+            <a href=" " target="_blank" class="text-black">
                 <i class="fa-brands fa-twitter" />
             </a>
         </div>

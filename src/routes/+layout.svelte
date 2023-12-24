@@ -2,6 +2,7 @@
     import "../app.css";
     import Footer from "../components/Footer.svelte";
     import Header from "../components/Header.svelte";
+    import Mobnav from "../components/Mobnav.svelte";
     
     let y;
     let innerWidth = 0;
@@ -29,6 +30,7 @@
         </button>
     </div>
     <Header {y} {innerHeight} />
+    <Mobnav {y} {innerHeight} />
     <slot />
     <Footer />
 </div>

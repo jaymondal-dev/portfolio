@@ -13,8 +13,8 @@
 <header
     class={"sticky z-[10] top-0 duration-200 px-6 flex items-center  justify-center border-b border-solid md:hidden" +
         (y > 0
-            ? " py-4 bg-[#b6c0ff] border-slate-500"
-            : " py-6 bg-[#d0d4f0] border-transparent")}
+            ? " py-4 bg-[#cacbdb] border-slate-500"
+            : " py-6 bg-[#cacbdb] border-transparent")}
     
 >
     

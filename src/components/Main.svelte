@@ -85,7 +85,7 @@
             <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
                 <span class="poppins text-violet-400">About Me</span> and my work.
             </h3>
-            <p class="p-10 md:mx-20">
+            <p class="md:p-10 md:mx-20">
                 I have started with Machine Learning and Artificial Intelligence because it represents the human conciousness and some of its Intelligence. Currently I am learning basics of AI and Data Science. But to build real world work experiences I am constantly looking to build different projects while learning. So I am open to collaborate on open source projects or anything You can come with .
             </p>
         </div>

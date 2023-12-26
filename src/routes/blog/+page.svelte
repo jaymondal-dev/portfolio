@@ -2,11 +2,12 @@
     export let data;
 </script>
 
-<h1 class="my-4 md:bg-slate-600 p-2 md:text-white text-violet-500 font-semibold text-2xl ">Blogs</h1>
+<h1 class="my-4 md:bg-slate-600 md:p-2 px-4 py-2 md:text-white text-slate-950 font-semibold text-4xl ">Blogs </h1>
 
-<div class="m-20">
+
+<div class="md:m-20 lg:mx-60">
     {#each data.posts as post}
-        <div class="flex justify-between items-center m-4 border-2 border-slate-400 rounded-md shadow-lg">
+        <div class="flex justify-between items-center m-4 bg-[#ffffff] rounded-md shadow-lg border-2 border-slate-300">
             <div class="m-4">
                 <ul>
                     <h2 class="text-xl text-slate-500 font-semibold py-2">

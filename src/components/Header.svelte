@@ -4,8 +4,8 @@
     export let y;
 
     export let tabs = [
-        { name: "About me", link: "#about" },
-        { name: "Projects ", link: "#projects" },
+        { name: "About me", link: "/" },
+        { name: "Projects ", link: "/projects" },
         { name: "Blog", link: "/blog" },
         // { name: "Contact", link: "" },
         // {name: '', link: ''},

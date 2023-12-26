@@ -50,7 +50,7 @@
             >
                 <div
                     class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
-                /><a href="mailto:freelancer.jay.mondal@gmail.com"><h4 class="relative z-9">Resume &rarr;</h4></a>
+                /><a href="/r.pdf"><h4 class="relative z-9">Resume &rarr;</h4></a>
                 
             </button>
         </div>

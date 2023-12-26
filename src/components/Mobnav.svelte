@@ -4,14 +4,14 @@
     export let tabs = [
         { name: "About me", link: "#about" },
         { name: "Projects ", link: "#projects" },
-        { name: "Blog", link: "#blog" },
+        { name: "Blog", link: "/blog" },
         // { name: "Contact", link: "" },
         // {name: '', link: ''},
     ];
 </script>
 
 <header
-    class={"sticky z-[10] top-0 duration-200 px-6 flex items-center  justify-center border-b border-solid md:hidden" +
+    class={"sticky z-[10] top-0 duration-200 px-4 flex items-center  justify-center border-b border-solid md:hidden" +
         (y > 0
             ? " py-4 bg-[#cacbdb] border-slate-500"
             : " py-6 bg-[#cacbdb] border-transparent")}

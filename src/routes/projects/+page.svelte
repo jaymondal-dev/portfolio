@@ -1,20 +1,18 @@
-<h1 class="my-4 md:bg-slate-600 p-2 md:text-white text-violet-500 font-semibold text-2xl ">Projects</h1>
+<h1 class="my-4 md:bg-[#36a4c0] p-2 md:text-white text-black font-semibold text-3xl ">Projects</h1>
 
-<div class="md:m-20">
+<div class="md:m-20  lg:mx-40">
     
-        <div class="   m-4 bg-[#ffffff] rounded-md shadow-lg border-2 border-slate-300">
-            <div class="bg-slate-100 p-2 rounded-md m-2">
+        <div class="   m-4 bg-[#dff5fc] rounded-lg shadow-lg border-2 border-slate-300 items-">
+            <div class="bg-slate-100 rounded-md p-2 ">
                 <img 
-                src="/favicon.png" 
-                alt=""
-                class="rounded-full object-cover"
+                src="/s.jpg"
+                alt="yoo"
+                class="rounded-lg object-cover md:h-64 lg:h-80 w-full"
                 />
-            </div>
-            <div class="m-4">
                 <ul>
                     <h2 class="text-2xl text-slate-500 font-semibold py-2">
                         <a href="/" class=" hover:underline">
-                            Tittle
+                            Tittle 1
                         </a>
                     </h2>
                     <p >By - Jay Mondal
@@ -24,19 +22,17 @@
             </div>
             
         </div>
-        <div class="   m-4 bg-[#ffffff] rounded-md shadow-lg border-2 border-slate-300">
-            <div class="bg-slate-100 p-2 rounded-md m-2">
+        <div class="   m-4 bg-[#dff5fc] rounded-lg shadow-lg border-2 border-slate-300 items-">
+            <div class="bg-slate-100 rounded-md p-2 ">
                 <img 
-                src="/favicon.png" 
-                alt=""
-                class="rounded-full object-cover"
+                src="/s2.jpg"
+                alt="yoo"
+                class="rounded-lg object-cover md:h-64 lg:h-80 w-full"
                 />
-            </div>
-            <div class="m-4">
                 <ul>
                     <h2 class="text-2xl text-slate-500 font-semibold py-2">
                         <a href="/" class=" hover:underline">
-                            Tittle
+                            Tittle 2
                         </a>
                     </h2>
                     <p >By - Jay Mondal
@@ -46,5 +42,4 @@
             </div>
             
         </div>
-    
 </div>

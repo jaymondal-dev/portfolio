@@ -3,7 +3,7 @@
 >
     <div class="flex gap-6 m-10">
         <button
-            class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full text-white bg-[#1d194e]"
+            class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full text-white bg-[#03045e]"
         >
             <a href="/blog" target="_blank">
                 <div
@@ -13,7 +13,7 @@
             </a>
         </button>
         <button
-            class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full text-white bg-[#1d194e]"
+            class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full text-white bg-[#03045e]"
         >
             <a href="https://google.com" target="_blank">
                 <div

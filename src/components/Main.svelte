@@ -28,17 +28,17 @@
             class="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10"
         >
             <h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
-                Namaste, I'm <span class=" text-violet-400">Jay Mondal</span>
+                Namaste, I'm <span class=" text-[#48cae4]">Jay Mondal</span>
                 <br />
             </h2>
             <h3 class="text-xl sm:text-2xl md:text-3xl">
                 AI & Machine Learning Enthusiast.
             </h3>
             <p class="text-base sm:text-lg md:text-xl ">
-                I code algorithms out of raw math. <span class="text-violet-400"></span>Mostly I am a pyhton dev, come up with statics and machine learning models using <span class="text-violet-400"> pandas, numpy, scikit-learn, tensorflow, pytorch and other libraries.</span>
+                I code algorithms out of raw math. <span class="text-[#48cae4]"></span>Mostly I am a pyhton dev, come up with statics and machine learning models using <span class="text-[#48cae4]"> pandas, numpy, scikit-learn, tensorflow, pytorch and other libraries.</span>
             </p>
             <button
-                class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-slate-500 text-white border-slate-950 hover:bg-slate-950 hover:text-white"
+                class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-[#023e8a] text-white border-slate-950 hover:bg-slate-950 hover:text-white"
             >
                 <div
                     class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
@@ -46,7 +46,7 @@
                 
             </button>
             <button
-                class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-9 py-3 group rounded-full bg-slate-500 text-white border-slate-950 hover:bg-slate-950 hover:text-white md:hidden"
+                class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-9 py-3 group rounded-full bg-[#023e8a] text-white border-slate-950 hover:bg-slate-950 hover:text-white md:hidden"
             >
                 <div
                     class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
@@ -83,7 +83,7 @@
                 I work with computers because I have an irresistable urge to create.
             </h6>
             <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-                <span class="poppins text-violet-400">About Me</span> and my work.
+                <span class="poppins text-[#48cae4]">About Me</span> and my work.
             </h3>
             <p class="md:p-10 md:mx-20">
                 I have started with Machine Learning and Artificial Intelligence because it represents the human conciousness and some of its Intelligence. Currently I am learning basics of AI and Data Science. But to build real world work experiences I am constantly looking to build different projects while learning. So I am open to collaborate on open source projects or anything You can come with .
@@ -104,13 +104,13 @@
     >
         <!-- <div class="z-[-1] bg-violet-950 w-screen left-1/2 -translate-x-1/2 top-0 h-full absolute"> </div> -->
         <div
-            class="flex flex-col gap-2 text-center relative before:absolute before:top-0 before:left-0 before:w-2/3 before:h-1.5 before:bg-violet-700 after:absolute after:bottom-0 after:right-0 after:w-2/3 after:h-1.5 after:bg-violet-700 py-4 "
+            class="flex flex-col gap-2 text-center relative before:absolute before:top-0 before:left-0 before:w-2/3 before:h-1.5 before:bg-[#03045e] violet-700 after:absolute after:bottom-0 after:right-0 after:w-2/3 after:h-1.5 after:bg-[#03045e]  py-4 "
         >
             <h6 class="text-large sm:text-xl md:text-2xl">
                 Educational Background
             </h6>
             <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-                The <span class="poppins text-violet-400">path </span>I took to become a <span class="poppins text-violet-400">Machine Learning </span> Engineer.
+                The <span class="poppins text-[#48cae4]">path </span>I took to become a <span class="poppins text-[#48cae4]">Machine Learning </span> Engineer.
             </h3>
         </div>
         <p class="mx-auto poppins font-semibold text-lg sm:text-xl md:text-2xl">
@@ -145,7 +145,7 @@
                         </h3>
                         <p>{benefit.description}</p>
                         <div>
-                        <a class="bg-black text-white p-2 border-r-10" href={benefit.link}>Certificate</a>
+                        <a class="bg-[#16253e] text-white p-2 border-r-10" href={benefit.link}>Certificate</a>
                         </div>
                     </div>
                     
@@ -159,7 +159,7 @@
     >
         <!-- <div class="z-[-1] bg-violet-950 w-screen left-1/2 -translate-x-1/2 top-0 h-full absolute"> </div> -->
         <div
-            class="flex flex-col gap-2 text-center relative before:absolute before:top-0 before:left-0 before:w-2/3 before:h-1.5 before:bg-violet-700 after:absolute after:bottom-0 after:right-0 after:w-2/3 after:h-1.5 after:bg-violet-700 py-4"
+            class="flex flex-col gap-2 text-center relative before:absolute before:top-0 before:left-0 before:w-2/3 before:h-1.5 before:bg-[#03045e] after:absolute after:bottom-0 after:right-0 after:w-2/3 after:h-1.5 after:bg-[#03045e] py-4"
         >
             <h6 class="text-large sm:text-xl md:text-2xl">
                 Job experiences.
